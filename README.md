@@ -1,14 +1,12 @@
 AI-powered-learning-platform
-Project Overview
+Project Overview:
 
 This project is a full-featured Learning Management System (LMS) built with the MERN Stack and integrated with the Gemini AI API.
 It enables course creation, user progress tracking, and AI-powered semantic search to help learners quickly find relevant content.
 
-Features
+Features:
 
 👩‍🏫 Course Management – Create, update, and manage courses.
-
-📊 User Progress Tracking – Track learners’ progress and completion status.
 
 🤖 AI-Powered Search – Integrated with Gemini AI for semantic and context-based search results.
 
@@ -19,14 +17,14 @@ Features
 🗄️ Database – MongoDB for scalable storage of users, courses, and progress data.
 
 
-Tech Stack
+Tech Stack:
 
 Frontend: React, HTML, CSS, JavaScript
 Backend: Node.js, Express.js
 Database: MongoDB
 AI Integration: Gemini API (AI-powered search)
 
-Installation & Setup
+Installation & Setup:
 
 Clone the repository
 git clone https://github.com/VarshaPulikanti/ai-powered-learning-platform.git
