@@ -10,7 +10,7 @@ Features:
 
 🤖 AI-Powered Search – Integrated with Gemini AI for semantic and context-based search results.
 
-🔑 Role-Based Access – Separate access for students, instructors, and admins.
+🔑 Role-Based Access – Separate access for students, instructors.
 
 🌐 Responsive UI – Clean and responsive design for web and mobile devices.
 
