@@ -40,8 +40,8 @@ npm install
 
 Create a .env file and add your API keys (MongoDB, Gemini API, etc.)
 Run the backend server
-npm start
+npm run dev
 
 Run the frontend
-npm start
+npm run dev
 
